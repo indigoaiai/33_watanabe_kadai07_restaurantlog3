@@ -1,0 +1,14 @@
+@charset "utf-8";
+body{
+    background-color:#b5e6cf;
+    width: 1000px;
+}
+th{
+    background-color: azure;
+    text-align: center;
+    width: 300px;
+}
+td{
+    background-color: azure;
+    text-align: center;
+}
